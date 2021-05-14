@@ -1,0 +1,6 @@
+body{background-image:url(sss.jpg);} 
+.st{text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: rgb(243, 236, 236); font-size: xx-large;}
+.one{background-color: steelblue; width: 200px; height: 120px; float: left; text-align: center; color: rgb(243, 236, 236);}
+.two{background-color: rgb(32, 151, 151); width: 200px; height: 120px; position: absolute; position: relative; float: left; text-align: center; color: rgb(243, 236, 236);}
+.three{background-color: rgb(40, 108, 148); width: 200px; height: 120px; position: relative; float: right; text-align: center; color: rgb(243, 236, 236);}
+.four{background-color: rgb(116, 132, 224); width: 200px; height: 120px; position: relative; float: right; text-align: center; color: rgb(243, 236, 236);}
